@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:practies/Screens/numberPage.dart';
 import 'package:practies/components/Item_List.dart';
 import 'package:practies/model/All_lists.dart';
-import 'package:practies/model/NunberPageModel.dart';
-import 'package:practies/model/colorModel.dart';
 import 'package:practies/model/homePageModel.dart';
 
 class HomePage extends StatelessWidget {
